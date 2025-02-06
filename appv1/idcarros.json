@@ -1,0 +1,943 @@
+[
+    {
+    "veiculo_suporte_id": "25219",
+    "placa_veiculo_suporte": "FVR-2F64",
+    "filial_origem_veiculo": "Mottu Campinas",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "119894",
+    "placa_veiculo_suporte": "SDW-0E39",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "60278",
+    "placa_veiculo_suporte": "RMV-5H29",
+    "filial_origem_veiculo": "Mottu Florianópolis",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "65773",
+    "placa_veiculo_suporte": "CUU-6B79",
+    "filial_origem_veiculo": "Mottu São Bernardo",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "41806",
+    "placa_veiculo_suporte": "QTR-1J26",
+    "filial_origem_veiculo": "Mottu Goiânia",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "101972",
+    "placa_veiculo_suporte": "GCU-0J46",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "96171",
+    "placa_veiculo_suporte": "GHB-4E78",
+    "filial_origem_veiculo": "Mottu Natal",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "40019",
+    "placa_veiculo_suporte": "QAK-3C88",
+    "filial_origem_veiculo": "Mottu Campo Grande",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "96177",
+    "placa_veiculo_suporte": "FZQ-6I41",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "113452",
+    "placa_veiculo_suporte": "SDW-0E41",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "75936",
+    "placa_veiculo_suporte": "CUQ-0G60",
+    "filial_origem_veiculo": "Mottu Belo Horizonte",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "40435",
+    "placa_veiculo_suporte": "QXM-0I55",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "116963",
+    "placa_veiculo_suporte": "FPL-4B03",
+    "filial_origem_veiculo": "Mottu Governador Valadares",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "104262",
+    "placa_veiculo_suporte": "GIR-8F94",
+    "filial_origem_veiculo": "Mottu Imperatriz",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "37945",
+    "placa_veiculo_suporte": "IXT-2E82",
+    "filial_origem_veiculo": "Mottu Porto Alegre",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "6421",
+    "placa_veiculo_suporte": "EQM-6H75",
+    "filial_origem_veiculo": "Mottu Limão - Zona Norte",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "75937",
+    "placa_veiculo_suporte": "EKU-6H39",
+    "filial_origem_veiculo": "Mottu São Luís",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "99377",
+    "placa_veiculo_suporte": "EHH-3B43",
+    "filial_origem_veiculo": "Mottu João Pessoa",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "78955",
+    "placa_veiculo_suporte": "ABM-4H09",
+    "filial_origem_veiculo": "Mottu São Carlos",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "75700",
+    "placa_veiculo_suporte": "CUU-5J00",
+    "filial_origem_veiculo": "Mottu Brasília",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "98477",
+    "placa_veiculo_suporte": "GEG-3F35",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "63021",
+    "placa_veiculo_suporte": "EDU-9A68",
+    "filial_origem_veiculo": "Mottu Maringá",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "6414",
+    "placa_veiculo_suporte": "FGD-3G29",
+    "filial_origem_veiculo": "Mottu Belo Horizonte",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "60597",
+    "placa_veiculo_suporte": "PNI-7H92",
+    "filial_origem_veiculo": "Mottu Fortaleza",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "65792",
+    "placa_veiculo_suporte": "CVA-1A50",
+    "filial_origem_veiculo": "Mottu Marabá",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "6415",
+    "placa_veiculo_suporte": "OAH-4I11",
+    "filial_origem_veiculo": "Mottu Manaus",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "31600",
+    "placa_veiculo_suporte": "FVL-7J67",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "71052",
+    "placa_veiculo_suporte": "QQU-9I82",
+    "filial_origem_veiculo": "Mottu Belo Horizonte",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "38647",
+    "placa_veiculo_suporte": "OUE-0C71",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "104108",
+    "placa_veiculo_suporte": "GFP-6E02",
+    "filial_origem_veiculo": "Mottu Parauapebas",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "65786",
+    "placa_veiculo_suporte": "BXZ-6J48",
+    "filial_origem_veiculo": "Mottu Palmas",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "109012",
+    "placa_veiculo_suporte": "PU1982B",
+    "filial_origem_veiculo": "Mottu Fábrica",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "43148",
+    "placa_veiculo_suporte": "RBU-9C95",
+    "filial_origem_veiculo": "Mottu Fortaleza",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "65775",
+    "placa_veiculo_suporte": "ESP-1F71",
+    "filial_origem_veiculo": "Mottu Jundiaí",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "17790",
+    "placa_veiculo_suporte": "PZN-6658",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "60654",
+    "placa_veiculo_suporte": "RTD-6E29",
+    "filial_origem_veiculo": "Mottu Joinville",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "58385",
+    "placa_veiculo_suporte": "PDR-8H95",
+    "filial_origem_veiculo": "Mottu Teresina",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "3006",
+    "placa_veiculo_suporte": "FLE-0I64",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "14474",
+    "placa_veiculo_suporte": "ITJ-8E32",
+    "filial_origem_veiculo": "Mottu Porto Alegre",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "98243",
+    "placa_veiculo_suporte": "FWJ-8A64",
+    "filial_origem_veiculo": "Mottu Olinda",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "60514",
+    "placa_veiculo_suporte": "EWT-7E11",
+    "filial_origem_veiculo": "Mottu São Miguel",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "65167",
+    "placa_veiculo_suporte": "FNJ-6B44",
+    "filial_origem_veiculo": "Mottu Limão - Zona Norte",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "40249",
+    "placa_veiculo_suporte": "BES-4H58",
+    "filial_origem_veiculo": "Mottu Taboão",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "58334",
+    "placa_veiculo_suporte": "QUT-5E13",
+    "filial_origem_veiculo": "Mottu Taboão",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "58329",
+    "placa_veiculo_suporte": "QXM-0H85",
+    "filial_origem_veiculo": "Mottu Sorocaba",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "60087",
+    "placa_veiculo_suporte": "QUF-5E71",
+    "filial_origem_veiculo": "Mottu Aracaju",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "91683",
+    "placa_veiculo_suporte": "CPG-1A91",
+    "filial_origem_veiculo": "Mottu Vila Velha",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "51231",
+    "placa_veiculo_suporte": "QET-7B94",
+    "filial_origem_veiculo": "Mottu Belém",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "14693",
+    "placa_veiculo_suporte": "QWY-0G05",
+    "filial_origem_veiculo": "Mottu São Miguel",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "47404",
+    "placa_veiculo_suporte": "BEE-8F09",
+    "filial_origem_veiculo": "Mottu São Miguel",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "11250",
+    "placa_veiculo_suporte": "OQQ-5I68",
+    "filial_origem_veiculo": "Mottu Campinas",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "40245",
+    "placa_veiculo_suporte": "RFM-5A09",
+    "filial_origem_veiculo": "Mottu Jandira",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "1657",
+    "placa_veiculo_suporte": "FAM-7C76",
+    "filial_origem_veiculo": "Mottu São Miguel",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "37502",
+    "placa_veiculo_suporte": "QDX-3F24",
+    "filial_origem_veiculo": "Mottu Belém",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "78958",
+    "placa_veiculo_suporte": "FVW-2J67",
+    "filial_origem_veiculo": "Mottu Praia Grande",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "40026",
+    "placa_veiculo_suporte": "PIU-6B13",
+    "filial_origem_veiculo": "Mottu São Luís",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "58373",
+    "placa_veiculo_suporte": "PRV-8D67",
+    "filial_origem_veiculo": "Mottu Rio Verde",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "65789",
+    "placa_veiculo_suporte": "RHY-9B75",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "29143",
+    "placa_veiculo_suporte": "PDS-1B05",
+    "filial_origem_veiculo": "Mottu Vitória da Conquista",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "40315",
+    "placa_veiculo_suporte": "QGP-3C65",
+    "filial_origem_veiculo": "Mottu Sobral",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "56376",
+    "placa_veiculo_suporte": "QRM-4C28",
+    "filial_origem_veiculo": "Mottu Salvador",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "75935",
+    "placa_veiculo_suporte": "EZF-2D32",
+    "filial_origem_veiculo": "Mottu Rio Branco",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "14694",
+    "placa_veiculo_suporte": "PAZ-1H22",
+    "filial_origem_veiculo": "Mottu Brasília",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "24544",
+    "placa_veiculo_suporte": "BRU-4I94",
+    "filial_origem_veiculo": "Mottu Ribeirão Preto",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "104719",
+    "placa_veiculo_suporte": "GEU-9A14",
+    "filial_origem_veiculo": "Mottu Caxias do Sul",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "31356",
+    "placa_veiculo_suporte": "QUL-2B61",
+    "filial_origem_veiculo": "Mottu Porto Alegre",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "47370",
+    "placa_veiculo_suporte": "BES-4H34",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "14690",
+    "placa_veiculo_suporte": "QXR-4J21",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "25778",
+    "placa_veiculo_suporte": "PHS-8C66",
+    "filial_origem_veiculo": "Mottu Manaus",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "97180",
+    "placa_veiculo_suporte": "R59BPM",
+    "filial_origem_veiculo": "Mottu Mexico CDMX Colegio Militar",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "58331",
+    "placa_veiculo_suporte": "RFK-2D85",
+    "filial_origem_veiculo": "Mottu Campinas",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "113460",
+    "placa_veiculo_suporte": "GDX-1E63",
+    "filial_origem_veiculo": "Mottu Cuiabá",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "1625",
+    "placa_veiculo_suporte": "EXT-2J62",
+    "filial_origem_veiculo": "Mottu Limão - Zona Norte",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "52242",
+    "placa_veiculo_suporte": "E80-BLD",
+    "filial_origem_veiculo": "Mottu Mexico CDMX Colegio Militar",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "15848",
+    "placa_veiculo_suporte": "EZI-3D81",
+    "filial_origem_veiculo": "Mottu Santos",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "7580",
+    "placa_veiculo_suporte": "OZF-7F91",
+    "filial_origem_veiculo": "Mottu Salvador",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "116528",
+    "placa_veiculo_suporte": "RHY-9I49",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "113775",
+    "placa_veiculo_suporte": "SDP-7D64",
+    "filial_origem_veiculo": "Mottu Macapá",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "78956",
+    "placa_veiculo_suporte": "CXS-0G09",
+    "filial_origem_veiculo": "Mottu Jundiaí",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "64290",
+    "placa_veiculo_suporte": "NFF-0A08",
+    "filial_origem_veiculo": "Mottu São Miguel",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "40246",
+    "placa_veiculo_suporte": "RFJ-8C66",
+    "filial_origem_veiculo": "Mottu São Bernardo",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "40247",
+    "placa_veiculo_suporte": "BES-4H64",
+    "filial_origem_veiculo": "Mottu São Bernardo",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "53267",
+    "placa_veiculo_suporte": "RCC-3E14",
+    "filial_origem_veiculo": "Mottu Goiânia",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "58720",
+    "placa_veiculo_suporte": "QUT-0D96",
+    "filial_origem_veiculo": "Mottu São Miguel",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "7271",
+    "placa_veiculo_suporte": "FPS-3F05",
+    "filial_origem_veiculo": "Mottu São Miguel",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "71880",
+    "placa_veiculo_suporte": "GII-0F82",
+    "filial_origem_veiculo": "Mottu São José do Rio Preto",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "27721",
+    "placa_veiculo_suporte": "RFO-0D73",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "11415",
+    "placa_veiculo_suporte": "FNU-5B52",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "19676",
+    "placa_veiculo_suporte": "FSE-8F02",
+    "filial_origem_veiculo": "Mottu Interlagos",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "83839",
+    "placa_veiculo_suporte": "MVJ605A",
+    "filial_origem_veiculo": "Mottu Mexico CDMX Colegio Militar",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "67343",
+    "placa_veiculo_suporte": "OFT-6097",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "53389",
+    "placa_veiculo_suporte": "RIE-3H23",
+    "filial_origem_veiculo": "Mottu Recife",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "35052",
+    "placa_veiculo_suporte": "EEL-6E09",
+    "filial_origem_veiculo": "Mottu Vila Velha",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "63787",
+    "placa_veiculo_suporte": "GJW-7A48",
+    "filial_origem_veiculo": "Mottu São Miguel",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "104263",
+    "placa_veiculo_suporte": "GFZ-8A36",
+    "filial_origem_veiculo": "Mottu Juiz de Fora",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "113459",
+    "placa_veiculo_suporte": "GJY-9B05",
+    "filial_origem_veiculo": "Mottu Uberlândia",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "60580",
+    "placa_veiculo_suporte": "D60BNS",
+    "filial_origem_veiculo": "Mottu Mexico CDMX Colegio Militar",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "113508",
+    "placa_veiculo_suporte": "RTB-7A81",
+    "filial_origem_veiculo": "Mottu Manaus",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "44245",
+    "placa_veiculo_suporte": "BCB-6J86",
+    "filial_origem_veiculo": "Mottu Curitiba",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "23908",
+    "placa_veiculo_suporte": "GAH-6I56",
+    "filial_origem_veiculo": "Mottu Limão - Zona Norte",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "78976",
+    "placa_veiculo_suporte": "MVC-5899",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "116962",
+    "placa_veiculo_suporte": "FXX-2J74",
+    "filial_origem_veiculo": "Mottu Criciúma",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "104260",
+    "placa_veiculo_suporte": "GAZ-8F01",
+    "filial_origem_veiculo": "Mottu Mossoró",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "48093",
+    "placa_veiculo_suporte": "QPB-9198",
+    "filial_origem_veiculo": "Mottu Belo Horizonte",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "40021",
+    "placa_veiculo_suporte": "QID-3I83",
+    "filial_origem_veiculo": "Mottu Limão - Zona Norte",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "55908",
+    "placa_veiculo_suporte": "FDP-4J16",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "67710",
+    "placa_veiculo_suporte": "CUF-8G79",
+    "filial_origem_veiculo": "Mottu Contagem",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "58716",
+    "placa_veiculo_suporte": "QUK-8H55",
+    "filial_origem_veiculo": "Mottu Rondonópolis",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "70072",
+    "placa_veiculo_suporte": "QUY-9G51",
+    "filial_origem_veiculo": "Mottu Salvador",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "58792",
+    "placa_veiculo_suporte": "RFM-6G85",
+    "filial_origem_veiculo": "Mottu Natal",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "114120",
+    "placa_veiculo_suporte": "GEB-6B64",
+    "filial_origem_veiculo": "Mottu Governador Valadares",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "96178",
+    "placa_veiculo_suporte": "FQL-0C77",
+    "filial_origem_veiculo": "Mottu São Luís",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "22652",
+    "placa_veiculo_suporte": "F48BMW",
+    "filial_origem_veiculo": "Mottu Mexico CDMX Colegio Militar",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "100400",
+    "placa_veiculo_suporte": "FJV-6G22",
+    "filial_origem_veiculo": "Mottu Anápolis",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "56109",
+    "placa_veiculo_suporte": "QUC-9E08",
+    "filial_origem_veiculo": "Mottu Feira de Santana",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "116964",
+    "placa_veiculo_suporte": "FXQ-5A41",
+    "filial_origem_veiculo": "Mottu Itajaí",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "82117",
+    "placa_veiculo_suporte": "G23BNP",
+    "filial_origem_veiculo": "Mottu Mexico CDMX Colegio Militar",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "14626",
+    "placa_veiculo_suporte": "PXO-2B60",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "67712",
+    "placa_veiculo_suporte": "GDY-2E25",
+    "filial_origem_veiculo": "Mottu Franca",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "58384",
+    "placa_veiculo_suporte": "PHR-1028",
+    "filial_origem_veiculo": "Mottu Manaus",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "54797",
+    "placa_veiculo_suporte": "PLV-7A16",
+    "filial_origem_veiculo": "Mottu Montes Claros",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "113778",
+    "placa_veiculo_suporte": "QRR-6A64",
+    "filial_origem_veiculo": "Mottu Teresina",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "71881",
+    "placa_veiculo_suporte": "EQU-6A03",
+    "filial_origem_veiculo": "Mottu Curitiba",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "25824",
+    "placa_veiculo_suporte": "PYD-3F21",
+    "filial_origem_veiculo": "Mottu Goiânia",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "108787",
+    "placa_veiculo_suporte": "GCQ-6D03",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "70077",
+    "placa_veiculo_suporte": "RMH-4F42",
+    "filial_origem_veiculo": "Mottu Salvador",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "75692",
+    "placa_veiculo_suporte": "GJT-4H28",
+    "filial_origem_veiculo": "Mottu Juazeiro",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "63417",
+    "placa_veiculo_suporte": "OYG-4G03",
+    "filial_origem_veiculo": "Mottu Vitória",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "28637",
+    "placa_veiculo_suporte": "FVY-3I51",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "14711",
+    "placa_veiculo_suporte": "FSO-8J15",
+    "filial_origem_veiculo": "Mottu São Miguel",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "33379",
+    "placa_veiculo_suporte": "QQE-7C61",
+    "filial_origem_veiculo": "Mottu Arapiraca",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "75934",
+    "placa_veiculo_suporte": "ECD-2E48",
+    "filial_origem_veiculo": "Mottu Florianópolis",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "14691",
+    "placa_veiculo_suporte": "FBQ-3H17",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "42988",
+    "placa_veiculo_suporte": "PVK-4F47",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "14363",
+    "placa_veiculo_suporte": "PME-7777",
+    "filial_origem_veiculo": "Mottu Juazeiro do Norte",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "58328",
+    "placa_veiculo_suporte": "QWT-3G22",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "47437",
+    "placa_veiculo_suporte": "CUK-6E66",
+    "filial_origem_veiculo": "Mottu Campinas",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "78486",
+    "placa_veiculo_suporte": "CQS-0E71",
+    "filial_origem_veiculo": "Mottu Belém",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "60212",
+    "placa_veiculo_suporte": "PLI-6A12",
+    "filial_origem_veiculo": "Mottu Maceió",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "58620",
+    "placa_veiculo_suporte": "QQM-9I42",
+    "filial_origem_veiculo": "Mottu Campina Grande",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "32515",
+    "placa_veiculo_suporte": "PHV-6E50",
+    "filial_origem_veiculo": "Mottu Boa Vista",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "29175",
+    "placa_veiculo_suporte": "QNR-1D75",
+    "filial_origem_veiculo": "Mottu Santos",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "75926",
+    "placa_veiculo_suporte": "GFE-9E26",
+    "filial_origem_veiculo": "Mottu Goiânia",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "32661",
+    "placa_veiculo_suporte": "QUF-5E63",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "47375",
+    "placa_veiculo_suporte": "QXM-0I03",
+    "filial_origem_veiculo": "Mottu Porto Alegre",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "60565",
+    "placa_veiculo_suporte": "D60BNN",
+    "filial_origem_veiculo": "Mottu Mexico Guadalajara",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "69699",
+    "placa_veiculo_suporte": "CUH-1C50",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "65783",
+    "placa_veiculo_suporte": "EUO-5H82",
+    "filial_origem_veiculo": "Mottu Brasília",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "29199",
+    "placa_veiculo_suporte": "QET-5G08",
+    "filial_origem_veiculo": "Mottu Recife",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "65781",
+    "placa_veiculo_suporte": "GAM-3E58",
+    "filial_origem_veiculo": "Mottu Ribeirão Preto",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "78957",
+    "placa_veiculo_suporte": "FXS-0F33",
+    "filial_origem_veiculo": "Mottu Belém",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "113453",
+    "placa_veiculo_suporte": "SDS-4C14",
+    "filial_origem_veiculo": "Mottu Santarém",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "44740",
+    "placa_veiculo_suporte": "RAF-3I55",
+    "filial_origem_veiculo": "Mottu Recife",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "47377",
+    "placa_veiculo_suporte": "QXM-1J48",
+    "filial_origem_veiculo": "Mottu São Miguel",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "22789",
+    "placa_veiculo_suporte": "GGI-1H04",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "35301",
+    "placa_veiculo_suporte": "RBT-5J66",
+    "filial_origem_veiculo": "Mottu Fortaleza",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "25916",
+    "placa_veiculo_suporte": "OYG-3B84",
+    "filial_origem_veiculo": "Mottu Vitória",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "75967",
+    "placa_veiculo_suporte": "BZI-3E93",
+    "filial_origem_veiculo": "Mottu Fortaleza",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "65294",
+    "placa_veiculo_suporte": "KNN-4D45",
+    "filial_origem_veiculo": "Mottu Interlagos",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "98473",
+    "placa_veiculo_suporte": "SDX-7F69",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "47400",
+    "placa_veiculo_suporte": "BES-4H28",
+    "filial_origem_veiculo": "Mottu Santos",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "17789",
+    "placa_veiculo_suporte": "GEV-6A95",
+    "filial_origem_veiculo": "Mottu São Miguel",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "65774",
+    "placa_veiculo_suporte": "FJG-2F81",
+    "filial_origem_veiculo": "Mottu Ipatinga",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "60241",
+    "placa_veiculo_suporte": "PGA-2022",
+    "filial_origem_veiculo": "Mottu Recife",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "10868",
+    "placa_veiculo_suporte": "FAC-7J65",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "25887",
+    "placa_veiculo_suporte": "QQF-4G27",
+    "filial_origem_veiculo": "Mottu Curitiba",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "18187",
+    "placa_veiculo_suporte": "BEA-5D76",
+    "filial_origem_veiculo": "Mottu São Miguel",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "31965",
+    "placa_veiculo_suporte": "QUC-5G49",
+    "filial_origem_veiculo": "Mottu São Miguel",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "108786",
+    "placa_veiculo_suporte": "GDT-8J01",
+    "filial_origem_veiculo": "Mottu Caxias do Sul",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "29525",
+    "placa_veiculo_suporte": "PYD-3517",
+    "filial_origem_veiculo": "Mottu Belo Horizonte",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "68654",
+    "placa_veiculo_suporte": "JGE-0842",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "40248",
+    "placa_veiculo_suporte": "BES-4E05",
+    "filial_origem_veiculo": "Mottu Santos",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "75938",
+    "placa_veiculo_suporte": "FEV-2C24",
+    "filial_origem_veiculo": "Mottu Porto Alegre",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "39611",
+    "placa_veiculo_suporte": "QRB-9E50",
+    "filial_origem_veiculo": "Mottu Natal",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "96179",
+    "placa_veiculo_suporte": "GDC-5A67",
+    "filial_origem_veiculo": "Mottu Teresina",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "119892",
+    "placa_veiculo_suporte": "NFY221B",
+    "filial_origem_veiculo": "Mottu Mexico Monterrey",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "60105",
+    "placa_veiculo_suporte": "BDU-3G62",
+    "filial_origem_veiculo": "Mottu Vitória",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "58357",
+    "placa_veiculo_suporte": "PDY-9B57",
+    "filial_origem_veiculo": "Mottu Caruaru",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "1649",
+    "placa_veiculo_suporte": "ETV-2G84",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "68112",
+    "placa_veiculo_suporte": "GCO-1F83",
+    "filial_origem_veiculo": "Mottu Londrina",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "104261",
+    "placa_veiculo_suporte": "FZP-4I76",
+    "filial_origem_veiculo": "Mottu Campo Grande",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "96690",
+    "placa_veiculo_suporte": "GJS-3H51",
+    "filial_origem_veiculo": "Mottu São Miguel",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "17788",
+    "placa_veiculo_suporte": "AIE-9944",
+    "filial_origem_veiculo": "Mottu Curitiba",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "65776",
+    "placa_veiculo_suporte": "GFD-9J69",
+    "filial_origem_veiculo": "Mottu Porto Velho",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "80516",
+    "placa_veiculo_suporte": "Z86BNH",
+    "filial_origem_veiculo": "Mottu Mexico CDMX Colegio Militar",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "60178",
+    "placa_veiculo_suporte": "QUI-5F07",
+    "filial_origem_veiculo": "Mottu Piracicaba",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "113458",
+    "placa_veiculo_suporte": "FJR-4D91",
+    "filial_origem_veiculo": "Mottu Uberaba",
+    "modal_veiculo": "CARRO"
+  }, {
+    "veiculo_suporte_id": "59639",
+    "placa_veiculo_suporte": "GZE-1H41",
+    "filial_origem_veiculo": "Mottu Butantã",
+    "modal_veiculo": "CARRO"
+  }
+]
