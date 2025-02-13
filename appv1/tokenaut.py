@@ -11,10 +11,8 @@ def token_mottu():
         "Content-Type": "application/x-www-form-urlencoded"
     }
 
-    # Enviando a requisição POST diretamente
     response = requests.post(url, headers=headers, data=payload)
 
-    # Verificando se a resposta foi bem-sucedida
     if response.status_code == 200:
         result = response.json()
         token = result.get("access_token")
@@ -22,5 +20,5 @@ def token_mottu():
     else:
         print(f"Erro ao obter o token: {response.status_code} - {response.text}")
         return None
-# Chama a função para obter o token
+
 token_mottu()
