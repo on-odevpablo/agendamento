@@ -4,7 +4,7 @@ def token_mottu():
     global token
     url = "https://sso.mottu.cloud/realms/Internal/protocol/openid-connect/token"
     payload = (
-        "username=pablo.caique@mottu.com.br&password=PMTUZQX7@"
+        "username=&password="
         "&client_id=mottu-admin&grant_type=password"
     )
     headers = {
